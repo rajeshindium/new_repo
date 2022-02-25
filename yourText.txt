@@ -1,1 +1,17 @@
-This is my new file
+
+resume-upload/ nno api is there
+-------------------------------
+(CompanyCard.js)
+
+network/shortlist-newsfeed
+
+/shortlist-enquiry (POST)
+ 
+/shortlist-enquiry/" + userId +  (DELETE)
+
+-----------------------------
+(MachineCard.js)
+
+/shortlist/ (DELETE)
+
+/shortlist/" + userId + (POST)
