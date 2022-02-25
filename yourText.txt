@@ -21,6 +21,10 @@ network/shortlist-newsfeed
 This is my new file
 Hello
 
+<<<<<<< HEAD
 Rajesh
 
 rajesh nalleboina
+=======
+demo data
+>>>>>>> 271f4f36d658d05a84d828dc7ae7eead05c83d2a
